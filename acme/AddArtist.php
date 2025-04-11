@@ -2,6 +2,7 @@
 
 require_once 'config.php'; 
 
+
 try { 
     // Check if request method POST
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
